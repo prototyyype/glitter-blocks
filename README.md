@@ -26,7 +26,7 @@ A beautiful, sparkly Tetris-like game built with SvelteKit and TypeScript. Featu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/glitter-blocks.git
+git clone https://github.com/prototyyype/glitter-blocks.git
 cd glitter-blocks
 ```
 
