@@ -2,7 +2,7 @@
 
 A beautiful, sparkly Tetris-like game built with SvelteKit and TypeScript. Features a modern, pink-themed UI with particle effects and smooth animations.
 
-![Glitter Blocks Game](screenshot.png)
+![Glitter Blocks Game](.github/assets/barbie-tetris.gif)
 
 ## ✨ Features
 
