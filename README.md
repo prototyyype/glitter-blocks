@@ -13,7 +13,7 @@ A beautiful, sparkly Tetris-like game built with SvelteKit and TypeScript. Featu
 - Next piece preview
 - Level progression system
 - High score tracking with local storage
-- Pause/Resume functionality
+- Pause/Resume functionality (press 'P' key to pause/resume at any time)
 
 ## 🚀 Getting Started
 
